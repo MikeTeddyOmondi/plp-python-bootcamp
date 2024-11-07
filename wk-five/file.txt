@@ -1,0 +1,9 @@
+Hello, this is the first line.
+This is the second line, including a number: 123.
+Final line with some text and a number: 456.
+This is an appended line: additional content 789.
+Another appended line with more text.
+Final appended line with the number: 101.
+This is an appended line: additional content 789.
+Another appended line with more text.
+Final appended line with the number: 101.
