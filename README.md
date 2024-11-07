@@ -8,8 +8,8 @@ Tasks:
 - [x] [Week Four](./wk-four/oop.py)
 - [x] [Week Five](./wk-five/file_handling.py)
 - [x] [Week Six]()
-- [x] [Week Seven](./wk-seven/)
-- [ ] [Week Eight]()
+- [ ] [Week Seven](./wk-seven/)
+- [ ] [Week Eight](./wk-eight/)
 
 ###### License
 
