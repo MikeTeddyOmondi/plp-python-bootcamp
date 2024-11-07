@@ -6,9 +6,9 @@ Tasks:
 - [x] [Week Two](./wk-two/list.py)
 - [x] [Week Three](./wk-three/functions.py)
 - [x] [Week Four](./wk-four/oop.py)
-- [ ] [Week Five]()
-- [ ] [Week Six]()
-- [ ] [Week Seven]()
+- [x] [Week Five](./wk-five/file_handling.py)
+- [x] [Week Six]()
+- [x] [Week Seven](./wk-seven/)
 - [ ] [Week Eight]()
 
 ###### License
