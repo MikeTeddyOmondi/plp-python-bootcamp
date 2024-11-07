@@ -3,7 +3,7 @@
 Tasks:
 
 - [x] [Week One](./wk-one/user_input.py)
-- [ ] [Week Two]()
+- [x] [Week Two](./wk-two/list.py)
 - [ ] [Week Three]()
 - [ ] [Week Four]()
 - [ ] [Week Five]()
